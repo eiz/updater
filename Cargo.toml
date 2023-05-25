@@ -1,0 +1,9 @@
+[package]
+name = "updater"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "minimum viable software updates?"
+authors = ["Mack Straight <mack@str.rs>"]
+
+[dependencies]
